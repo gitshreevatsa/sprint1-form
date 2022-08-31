@@ -1,0 +1,1 @@
+//show the nft accessed by user , which recieves data from fetchNFT() function. And on buy, will be sold to the user. 

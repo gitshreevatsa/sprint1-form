@@ -1,0 +1,1 @@
+// query from contract, display the cards of NFTs and redirect to listing/listingId

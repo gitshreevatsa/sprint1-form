@@ -1,0 +1,1 @@
+// show the data from database and then on 'mint' button, mint function from contract enabled. So this page will have connection with contract
